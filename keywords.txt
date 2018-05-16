@@ -39,6 +39,8 @@ pauseDataStream	KEYWORD2
 pauseMusic	KEYWORD2
 playMP3	KEYWORD2
 playTrack	KEYWORD2
+recordOgg	KEYWORD2
+writeOggInLoop	KEYWORD2
 resumeDataStream	KEYWORD2
 resumeMusic	KEYWORD2
 SendSingleMIDInote	KEYWORD2
